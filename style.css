@@ -1,0 +1,32 @@
+#img1 {
+	margin-left: 50px;
+}
+
+#img2 {
+	margin-left: 50px;
+}
+
+#img3 {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+#img4 {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+#bio {
+	font-size: 40px;
+	text-align: center;
+	color: #00264d;
+	font-family: 'Fascinate', cursive;
+}
+
+.gray {
+	filter: grayscale(100%);
+}
+
+.opacity {
+	opacity: 40%;
+}
